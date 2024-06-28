@@ -4,8 +4,23 @@
 **College:** Swarthmore College (liberal arts college near Philadelphia, PA) <br/>
 **Year:** Class of 2026 <br/>
 **Degrees:** B.A. in Computer Science and Sociology/Anthropology <br/>
-**Hometown:** Tokyo, Japan
+**Hometown:** Tokyo, Japan <br/>
+**Affiliation:** UNIQLO Yanai Tadashi Foundation International Scholar (https://www.yanaitadashi-foundation.or.jp/en/) <br/>
 
+**Interests** 
+Technology: #systems, #distributed systems, #Human-Computer Interaction, #Machine Learning
+Topic: #Diversity, #Creativity, #Culture, #Social Impacts
+
+**I am currently working on ...**
+<ol>
+  <li> Full-time: Building ML models to detect and analyze hate speech in podcasts</li>
+  <li> Part-time: Building distributed peer-to-peer network project at my college's CS department</li>
+  <li> Part-time: Updating various system requirements at my college's CS department </li>
+  <li> Part-time: Honing my Web-dev skills by taking Meta's professional backend certificate </li>
+</ol>
+
+**Publication**
+Reishiro Kawakami and Sukrit Venkatagiri. 2024. The Impact of Generative AI on Artists. In Proceedings of the 16th Conference on Creativity & Cognition (C&C '24). Association for Computing Machinery, New York, NY, USA, 79–82. https://doi.org/10.1145/3635636.3664263
 
 
 <!--
