@@ -8,7 +8,7 @@
 **Hometown:** Tokyo, Japan <br/>
 **Affiliation:** UNIQLO Yanai Tadashi Foundation International Scholar (https://www.yanaitadashi-foundation.or.jp/en/) <br/>
 
-**Interests: 🤔** <br/>
+<h2> Interests: 🤔** </h2>
 Technology: #systems, #distributed systems, #Human-Computer Interaction, #Machine Learning <br/>
 Topic: #Diversity, #Creativity, #Culture, #Social Impacts <br/>
 
