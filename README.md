@@ -1,5 +1,6 @@
 ## 👋 Hello!! from Reishiro Kawakami
 
+<h2> Introduction: 👨‍🎓</h2>
 **Name:** Reishiro Kawakami <br/>
 **College:** Swarthmore College (liberal arts college near Philadelphia, PA) <br/>
 **Year:** Class of 2026 <br/>
