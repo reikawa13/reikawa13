@@ -1,7 +1,7 @@
 <h1>Hi! Great to see you! 😃👋</h1> 
 
 <h2> Introduction: 👨‍🎓</h2>
-**Name:** Reishiro Kawakami <br/>
+**Name:** Reishiro Kawakami
 **College:** Swarthmore College (liberal arts college near Philadelphia, PA) <br/>
 **Year:** Class of 2026 <br/>
 **Degrees:** B.A. in *Computer Science* and *Sociology/Anthropology* <br/>
