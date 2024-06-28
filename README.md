@@ -1,6 +1,6 @@
-## 👋 Hello!! 
+## 👋 Hello!! from Reishiro Kawakami
 
-Name: Reishiro Kawakami < br / >
+Name: Reishiro Kawakami <br/>
 College: Swarthmore College (liberal arts college near Philadelphia, PA) < br / >
 Year: Class of 2026
 Degrees: B.A. in Computer Science and Sociology/Anthropology
