@@ -25,7 +25,7 @@ Reishiro Kawakami and Sukrit Venkatagiri. 2024. The Impact of Generative AI on A
 
 <h2> Fun Facts ⚡ </h2>
 <ol>
-  <li> Music&Dance: I play Taiko (traditional Japanese drum) at Swarthmore College Taiko Ensemble, as well as piano personally</li>
+  <li> Music & Dance: I play Taiko (traditional Japanese drum) at Swarthmore College Taiko Ensemble, as well as piano personally</li>
   <li> Hobbies: Music, Drawing, Photography, Hiking</li>
 </ol>
 
