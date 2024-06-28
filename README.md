@@ -1,6 +1,11 @@
 ## 👋 Hello!! 
 
-My name is Reishiro Kawakami, and I am a rising junior at Swarthmore College, a liberal arts college near Philadelphia, PA. 
+Name: Reishiro Kawakami
+College: Swarthmore College (liberal arts college near Philadelphia, PA) 
+Year: Class of 2026
+Degrees: B.A. in Computer Science and Sociology/Anthropology
+
+
 
 <!--
 **reikawa13/reikawa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
