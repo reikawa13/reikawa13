@@ -1,12 +1,12 @@
 <h1>Hi! Great to see you! 😃👋</h1> 
 
 <h2> Introduction: 👨‍🎓</h2>
-**Name:** Reishiro Kawakami
-**College:** Swarthmore College (liberal arts college near Philadelphia, PA) <br/>
-**Year:** Class of 2026 <br/>
-**Degrees:** B.A. in *Computer Science* and *Sociology/Anthropology* <br/>
-**Hometown:** Tokyo, Japan <br/>
-**Affiliation:** UNIQLO Yanai Tadashi Foundation International Scholar (https://www.yanaitadashi-foundation.or.jp/en/) <br/>
+Name: Reishiro Kawakami <br/>
+College: Swarthmore College (liberal arts college near Philadelphia, PA) <br/>
+Year: Class of 2026 <br/>
+Degrees: B.A. in *Computer Science* and *Sociology/Anthropology* <br/>
+Hometown: Tokyo, Japan <br/>
+Affiliation: UNIQLO Yanai Tadashi Foundation International Scholar (https://www.yanaitadashi-foundation.or.jp/en/) <br/>
 
 <h2> Interests: 🤔 </h2>
 Technology: #systems, #distributed systems, #Human-Computer Interaction, #Machine Learning <br/>
