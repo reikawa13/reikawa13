@@ -23,6 +23,11 @@ Topic: #Diversity, #Creativity, #Culture, #Social Impacts <br/>
 <h2> Publication: 📝 </h2>
 Reishiro Kawakami and Sukrit Venkatagiri. 2024. The Impact of Generative AI on Artists. In Proceedings of the 16th Conference on Creativity & Cognition (C&C '24). Association for Computing Machinery, New York, NY, USA, 79–82. https://doi.org/10.1145/3635636.3664263 <br/>
 
+<h2> Fun Facts ⚡ </h2>
+<ol>
+  <li> Music: I play Taiko (traditional Japanese drum) at Swarthmore College Taiko Ensemble, as well as piano </li>
+  <li> Hobby: Music, Drawing, Photography, Hiking</li>
+</ol>
 
 <!--
 **reikawa13/reikawa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
