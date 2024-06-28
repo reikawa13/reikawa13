@@ -8,11 +8,11 @@
 **Hometown:** Tokyo, Japan <br/>
 **Affiliation:** UNIQLO Yanai Tadashi Foundation International Scholar (https://www.yanaitadashi-foundation.or.jp/en/) <br/>
 
-<h2> Interests: 🤔** </h2>
+<h2> Interests: 🤔 </h2>
 Technology: #systems, #distributed systems, #Human-Computer Interaction, #Machine Learning <br/>
 Topic: #Diversity, #Creativity, #Culture, #Social Impacts <br/>
 
-**I am currently working on... 🌱** <br/>
+<h2> I am currently working on... 🌱 </h2>
 <ol>
   <li> Full-time: Building ML models to detect and analyze hate speech in podcasts</li>
   <li> Part-time: Building distributed peer-to-peer network project at my college's CS department</li>
@@ -20,7 +20,7 @@ Topic: #Diversity, #Creativity, #Culture, #Social Impacts <br/>
   <li> Part-time: Honing my Web-dev skills by taking Meta's professional backend certificate </li>
 </ol>
 
-**Publication: 📝** <br/>
+<h2> Publication: 📝 </h2>
 Reishiro Kawakami and Sukrit Venkatagiri. 2024. The Impact of Generative AI on Artists. In Proceedings of the 16th Conference on Creativity & Cognition (C&C '24). Association for Computing Machinery, New York, NY, USA, 79–82. https://doi.org/10.1145/3635636.3664263 <br/>
 
 
