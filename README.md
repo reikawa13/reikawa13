@@ -19,8 +19,8 @@ Topic: #Diversity, #Creativity, #Culture, #Social Impacts <br/>
   <li> Part-time: Honing my Web-dev skills by taking Meta's professional backend certificate </li>
 </ol>
 
-**Publication**
-Reishiro Kawakami and Sukrit Venkatagiri. 2024. The Impact of Generative AI on Artists. In Proceedings of the 16th Conference on Creativity & Cognition (C&C '24). Association for Computing Machinery, New York, NY, USA, 79–82. https://doi.org/10.1145/3635636.3664263
+**Publication:** <br/>
+Reishiro Kawakami and Sukrit Venkatagiri. 2024. The Impact of Generative AI on Artists. In Proceedings of the 16th Conference on Creativity & Cognition (C&C '24). Association for Computing Machinery, New York, NY, USA, 79–82. https://doi.org/10.1145/3635636.3664263 <br/>
 
 
 <!--
