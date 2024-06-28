@@ -1,4 +1,4 @@
-<h1>Hi!! Great to see you! 👋</h1> 
+<h1>　Hi! Great to see you! 😃👋</h1> 
 
 <h2> Introduction: 👨‍🎓</h2>
 **Name:** Reishiro Kawakami <br/>
