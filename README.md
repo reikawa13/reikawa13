@@ -7,11 +7,11 @@
 **Hometown:** Tokyo, Japan <br/>
 **Affiliation:** UNIQLO Yanai Tadashi Foundation International Scholar (https://www.yanaitadashi-foundation.or.jp/en/) <br/>
 
-**Interests** 
-Technology: #systems, #distributed systems, #Human-Computer Interaction, #Machine Learning
-Topic: #Diversity, #Creativity, #Culture, #Social Impacts
+**Interests** <br/>
+Technology: #systems, #distributed systems, #Human-Computer Interaction, #Machine Learning <br/>
+Topic: #Diversity, #Creativity, #Culture, #Social Impacts <br/>
 
-**I am currently working on ...**
+**I am currently working on ...** <br/>
 <ol>
   <li> Full-time: Building ML models to detect and analyze hate speech in podcasts</li>
   <li> Part-time: Building distributed peer-to-peer network project at my college's CS department</li>
