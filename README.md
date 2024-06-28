@@ -1,4 +1,4 @@
-## 👋 Hi there!! 
+## 👋 Hello!! 
 
 My name is Reishiro Kawakami, and I am a rising junior at Swarthmore College, a liberal arts college near Philadelphia, PA. 
 
