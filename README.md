@@ -16,7 +16,7 @@ Topic: #Diversity, #Creativity, #Culture, #Social Impacts <br/>
 <ol>
   <li> Full-time: Building ML models to detect and analyze hate speech in podcasts</li>
   <li> Part-time: Building distributed peer-to-peer network project at my college's CS department</li>
-  <li> Part-time: Updating various system requirements at my college's CS department </li>
+  <li> Part-time: Managing the network/system of my college's CS department as a system administrator </li>
   <li> Personal: Honing my Web-dev skills by taking Meta's professional backend certificate </li>
 </ol>
 
