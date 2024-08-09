@@ -10,8 +10,8 @@ Affiliation: UNIQLO Yanai Tadashi Foundation International Scholar (https://www.
 Publication: HCI paper titled "The Impacts of Generative AI on Artists" at ACM Creativity & Cognition '24 <br/>
 
 <h2> Interests: 🤔 </h2>
-Technology: #Backend, #Distributed Systems, #Human-Computer Interaction, #Machine Learning <br/>
-Topic: #Diversity, #Creativity, #Culture, #Social Impacts <br/>
+Technology: #Full-Stack, #Distributed Systems, #Human-Computer Interaction, #Machine Learning <br/>
+Topic: #Social Impacts, #Culture, #Creativity, #Diversity <br/>
 
 <h2> I am currently working on... 🌱 </h2>
 <ol>
