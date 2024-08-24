@@ -18,7 +18,6 @@ Topic: #Social Impacts, #Culture, #Creativity, #Diversity <br/>
   <li> Full-time: Building and leveraging ML models to analyze hate speech in podcasts</li>
   <li> Part-time: Building a distributed peer-to-peer network monitor at my college's CS department</li>
   <li> Part-time: Managing the network/system of my college's CS department as a system administrator </li>
-  <li> Personal: Building a custom AI chatbot that is fine-tuned to provide more reliable information about studying abroad </li>
 </ol>
 
 <h2> Publication: 📝 </h2>
