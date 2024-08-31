@@ -7,7 +7,6 @@ Year: Class of 2026 <br/>
 Degrees: B.A. in Computer Science and Sociology/Anthropology (Double Major) <br/>
 Hometown: Tokyo, Japan <br/>
 Affiliation: UNIQLO Yanai Tadashi Foundation International Scholar (https://www.yanaitadashi-foundation.or.jp/en/) <br/>
-             CodePath (https://www.codepath.org) <br/>
 
 <h2> Interests: 🤔 </h2>
 Technology: #Full-Stack, #Distributed Systems, #Human-Computer Interaction, #Machine Learning <br/>
