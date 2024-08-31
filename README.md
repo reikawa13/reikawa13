@@ -8,7 +8,6 @@ Degrees: B.A. in Computer Science and Sociology/Anthropology (Double Major) <br/
 Hometown: Tokyo, Japan <br/>
 Affiliation: UNIQLO Yanai Tadashi Foundation International Scholar (https://www.yanaitadashi-foundation.or.jp/en/) <br/>
              CodePath (https://www.codepath.org) <br/>
-Publication: HCI paper titled "The Impacts of Generative AI on Artists" at ACM Creativity & Cognition '24" (first author) <br/>
 
 <h2> Interests: 🤔 </h2>
 Technology: #Full-Stack, #Distributed Systems, #Human-Computer Interaction, #Machine Learning <br/>
