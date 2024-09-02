@@ -6,7 +6,11 @@ College: Swarthmore College (liberal arts college near Philadelphia, PA) <br/>
 Year: Class of 2026 <br/>
 Degrees: B.A. in Computer Science and Sociology/Anthropology (Double Major) <br/>
 Hometown: Tokyo, Japan 🇯🇵 (but lived in Moscow, Russia 🇷🇺 and Ottawa, Canada 🇨🇦) <br/>
-Affiliation: UNIQLO Yanai Tadashi Foundation International Scholar (https://www.yanaitadashi-foundation.or.jp/en/) <br/>
+Affiliation: 
+<ol>
+  <li> UNIQLO Yanai Tadashi Foundation International Scholar (https://www.yanaitadashi-foundation.or.jp/en/) </li>
+  <li> CodePath (https://www.codepath.org) </li>
+</ol>
 
 <h2> Interests:  </h2>
 Technology: #Full-Stack, #Distributed Systems, #Human-Computer Interaction, #Machine Learning <br/>
