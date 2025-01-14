@@ -2,7 +2,7 @@
 
 <h2> Introduction 👨‍🎓</h2>
 Name: Reishiro Kawakami <br/>
-College: Swarthmore College (liberal arts college near Philadelphia, PA) <br/>
+College: Swarthmore College (a liberal arts college near Philadelphia, PA) <br/>
 Year: Class of 2026 <br/>
 Degrees: B.A. in Computer Science and Sociology/Anthropology (Double Major) <br/>
 Hometown: Tokyo, Japan 🇯🇵 (but lived in Moscow, Russia 🇷🇺 and Ottawa, Canada 🇨🇦) <br/>
