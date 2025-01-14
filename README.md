@@ -23,6 +23,13 @@ Topic: #Social Impacts, #Culture, #Creativity, #Diversity <br/>
   <li> Part-time: Leading Swarthmore's entrepreneurship club by organizing various events including workshops, AMA events, and side projects </li>
 </ol>
 
+<h2> Side Projects on my GitHub </h2>
+<ol>
+  <li> Custom AI Chatbot: Created a customized AI chatbot, integrated into a full-stack web application. </li>
+  <li> Microservice Video-to-MP3 converter </li>
+  <li>  </li>
+</ol>
+
 <h2> Publication:  </h2>
 Reishiro Kawakami and Sukrit Venkatagiri. 2024. The Impact of Generative AI on Artists. In Proceedings of the 16th Conference on Creativity & Cognition (C&C '24). Association for Computing Machinery, New York, NY, USA, 79–82. https://doi.org/10.1145/3635636.3664263 <br/>
 
