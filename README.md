@@ -27,7 +27,6 @@ Topic: #Social Impacts, #Culture, #Creativity, #Diversity <br/>
 <ol>
   <li> Custom AI Chatbot: Created a customized AI chatbot, integrated into a full-stack web application. </li>
   <li> Microservice Video-to-MP3 converter </li>
-  <li>  </li>
 </ol>
 
 <h2> Publication:  </h2>
