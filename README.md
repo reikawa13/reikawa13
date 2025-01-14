@@ -18,9 +18,9 @@ Topic: #Social Impacts, #Culture, #Creativity, #Diversity <br/>
 
 <h2> I am currently working on...  </h2>
 <ol>
-  <li> Full-time: Building and leveraging ML models to analyze hate speech in podcasts</li>
-  <li> Part-time: Building a distributed peer-to-peer network monitor at my college's CS department</li>
+  <li> Part-time: Building and leveraging AI-driven research tools to analyze hate speech in popular political podcasts</li>
   <li> Part-time: Managing the network/system of my college's CS department as a system administrator </li>
+  <li> Part-time: Leading Swarthmore's entrepreneurship club by organizing various events including workshops, AMA events, and side projects </li>
 </ol>
 
 <h2> Publication:  </h2>
