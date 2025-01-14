@@ -26,7 +26,7 @@ Topic: #Social Impacts, #Culture, #Creativity, #Diversity <br/>
 <h2> Side Projects on my GitHub </h2>
 <ol>
   <li> Custom AI Chatbot: Created a customized AI chatbot, integrated into a full-stack web application. </li>
-  <li> Microservice Video-to-MP3 converter </li>
+  <li> Microservice Video-to-MP3 converter: a microservice architecture for video to mp3 conversion </li>
 </ol>
 
 <h2> Publication:  </h2>
