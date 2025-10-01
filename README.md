@@ -1,4 +1,4 @@
-<h1>Hi! Great to see you! 😃👋</h1> 
+<h1>Hi!</h1> 
 
 <h2> Introduction 👨‍🎓</h2>
 Name: Reishiro Kawakami <br/>
@@ -18,9 +18,9 @@ Topic: #Social Impacts, #Culture, #Creativity, #Diversity <br/>
 
 <h2> I am currently working on... 🌱</h2>
 <ol>
-  <li> Part-time: Building and leveraging AI-driven research tools to analyze hate speech in popular political podcasts</li>
-  <li> Part-time: Managing the network/system of my college's CS department as a system administrator </li>
-  <li> Part-time: Leading Swarthmore's entrepreneurship club by organizing various events including workshops, AMA events, and side projects </li>
+  <li> Research: Building and leveraging AI-driven research tools to analyze hate speech in popular political podcasts</li>
+  <li> Extracurricular: Managing the network/system of my college's CS department as a system administrator </li>
+  <li> Extracurricular: Leading Swarthmore's entrepreneurship club by organizing various events including workshops, AMA events, and side projects </li>
 </ol>
 
 <h2> Side Projects (on this GitHub) </h2>
