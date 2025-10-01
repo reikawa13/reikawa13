@@ -1,5 +1,3 @@
-<h1>Hi!</h1> 
-
 <h2> Introduction 👨‍🎓</h2>
 Name: Reishiro Kawakami <br/>
 College: Swarthmore College (a liberal arts college near Philadelphia, PA) <br/>
